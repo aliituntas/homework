@@ -1,0 +1,10 @@
+c:\users\ali\source\repos\mining\mining\obj\Debug\mining.csprojResolveAssemblyReference.cache
+c:\users\ali\source\repos\mining\mining\obj\Debug\mining.Form1.resources
+c:\users\ali\source\repos\mining\mining\obj\Debug\mining.Properties.Resources.resources
+c:\users\ali\source\repos\mining\mining\obj\Debug\mining.csproj.GenerateResource.cache
+c:\users\ali\source\repos\mining\mining\obj\Debug\mining.csproj.CoreCompileInputs.cache
+c:\users\ali\source\repos\mining\mining\bin\Debug\mining.exe.config
+c:\users\ali\source\repos\mining\mining\bin\Debug\mining.exe
+c:\users\ali\source\repos\mining\mining\bin\Debug\mining.pdb
+c:\users\ali\source\repos\mining\mining\obj\Debug\mining.exe
+c:\users\ali\source\repos\mining\mining\obj\Debug\mining.pdb
